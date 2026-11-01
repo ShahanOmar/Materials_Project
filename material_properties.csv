@@ -1,0 +1,11 @@
+Material,Family,Density_g_cm3,Tensile_Strength_MPa,Thermal_Conductivity_W_mK
+Structural Steel (A36),Ferrous Metal,7.85,400,50.0
+Stainless Steel (304),Ferrous Metal,8.00,505,16.2
+Aluminum Alloy (6061-T6),Non-Ferrous Metal,2.70,310,167.0
+Pure Copper (C101),Non-Ferrous Metal,8.96,220,391.0
+Titanium Alloy (Ti-6Al-4V),Superalloy,4.43,950,6.7
+Inconel 625,Superalloy,8.44,827,9.8
+ABS Polymer,Polymer,1.04,40,0.17
+Polycarbonate (PC),Polymer,1.20,70,0.20
+"Nylon 6,6",Polymer,1.14,80,0.25
+Carbon Fiber Composite (CFRP),Composite,1.55,600,5.0
